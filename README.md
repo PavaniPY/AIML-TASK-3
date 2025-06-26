@@ -4,13 +4,13 @@ Objective: Predict housing prices using linear regression on the Housing dataset
 ## Dataset: 
 [https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction ](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
-## Tools & Technologies Used
+## Tools & Technologies Used:
 Platform: Python (Jupyter Notebook)
 Libraries: Data Handling: Pandas, NumPy
 Modeling: Scikit-learn (LinearRegression, train_test_split, metrics)
 Visualization: Matplotlib, Seaborn
 
-## Steps Performed
+## Steps Performed:
 
 Data Preprocessing:
 Converted 'yes'/'no' values to 1/0
